@@ -1,0 +1,13 @@
+.game-wrapper{
+  position: relative;
+  width: 50vw;
+  max-width: 100vh;
+  margin: 2vh auto;
+}
+.board {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: hidden;
+  justify-content: center;
+}
